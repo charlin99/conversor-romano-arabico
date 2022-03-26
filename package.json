@@ -1,0 +1,22 @@
+{
+  "name": "conversor-romano-arabico",
+  "version": "1.0.0",
+  "description": "Conversor de números romanos para arábicos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlin99/conversor-romano-arabico.git"
+  },
+  "author": "Carlos Miguel dos Santos Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlin99/conversor-romano-arabico/issues"
+  },
+  "homepage": "https://github.com/charlin99/conversor-romano-arabico#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
